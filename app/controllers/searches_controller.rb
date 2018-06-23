@@ -23,4 +23,5 @@ rescue Faraday::ConnectionFailed
 
     render 'search'
   end
+
 end
